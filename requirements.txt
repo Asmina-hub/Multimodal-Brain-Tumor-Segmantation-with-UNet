@@ -1,0 +1,17 @@
+matplotlib
+numpy
+opencv-python
+torchvision
+ultralytics
+ultralytics-thop
+urllib3
+kagglehub==0.3.13
+nibabel
+dotenv
+sklearn
+tensorflow
+torch
+torchsummary
+monai
+torchmetrics
+
